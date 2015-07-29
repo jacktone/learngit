@@ -1,2 +1,3 @@
+第一次连接远程库时
 git remote add origin https://github.com/jacktone/learngit.git
 git push -u origin master
