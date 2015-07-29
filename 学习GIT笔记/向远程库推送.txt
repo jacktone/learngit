@@ -1,0 +1,2 @@
+git remote add origin https://github.com/jacktone/learngit.git
+git push -u origin master
